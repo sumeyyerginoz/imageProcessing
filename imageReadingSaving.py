@@ -1,7 +1,7 @@
 import cv2
 # The file name should not contain Turkish characters.
 
-img = cv2.imread("/Users/sumeyye/Desktop/artifical intellegent/image deep learning /imageReadingSaving/klon1.jpg",0) # Reads the image in a single channel (grayscale)=(0)
+img = cv2.imread("/Users/sumeyye/Desktop/artifical intellegent/image deep learning /imageReadingSaving/image.png",0) # Reads the image in a single channel (grayscale)=(0)
 #print(img)
 
 
